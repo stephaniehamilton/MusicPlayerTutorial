@@ -1,0 +1,14 @@
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\bin\Debug\MusicPlayerTutorial.exe.config
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\obj\Debug\Interop.WMPLib.dll
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\obj\Debug\MusicPlayerTutorial.csproj.ResolveComReference.cache
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\bin\Debug\MusicPlayerTutorial.exe
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\bin\Debug\MusicPlayerTutorial.pdb
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\bin\Debug\Interop.WMPLib.dll
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\obj\Debug\MusicPlayerTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\obj\Debug\MusicPlayerTutorial.Form1.resources
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\obj\Debug\MusicPlayerTutorial.Properties.Resources.resources
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\obj\Debug\MusicPlayerTutorial.csproj.GenerateResource.Cache
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\obj\Debug\MusicPlayerTutorial.exe
+C:\Users\Steph&Jeff\Source\Repos\MusicPlayerTutorial\MusicPlayerTutorial\obj\Debug\MusicPlayerTutorial.pdb
